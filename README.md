@@ -1,5 +1,9 @@
 # Armenian inscriptions — data
 
+
+
+Test -modification 
+
 Structured inscription notices extracted from the *Corpus Inscriptionum
 Armenicarum* by a vision-language model, together with the corrections
 researchers have made to them.
